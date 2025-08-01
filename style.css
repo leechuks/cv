@@ -43,6 +43,14 @@ header p {
 section {
   margin-bottom: 25px;
 }
+a {
+  color: #007acc;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
 
 section h2 {
   color: #007acc;
